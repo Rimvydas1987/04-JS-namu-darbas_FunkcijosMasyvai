@@ -42,10 +42,9 @@ input {
     height: 41px;
     font-size: 20px;
 }
-.div-dydis {
-    width: 40px;
-    height: 40px;
-    border: 1px solid black;
+.elementasIndex {
+    width: 200px;
+    height: 20px;
     float: left;
 }
 
